@@ -1,0 +1,11 @@
+Partlist exported from D:/Michal/Elektronika/projekty/VUT/LIBS_Tescan/DPS_rack_backplane/LIC_rack_backplane-00.sch at 19.6.2014 11:52:37
+
+Qty Value         Device        Parts                                                                                                         GM            code   
+16  22-27-2041-04 22-27-2041-04 J6, J7, J8, J9, J10, J16, J17, J18, J19, J20, J24, J25, J26, J30, J31, J32                                                         
+8   22-27-2061-06 22-27-2061-06 J1, J2, J3, J4, J5, J21, J22, J23                                                                                                  
+8   22-27-2081-08 22-27-2081-08 J11, J12, J13, J14, J15, J27, J28, J29                                                                                             
+2   100k          R-EU_R1206    R1, R2                                                                                                        R1206 100K 1% 900-002
+24  100n          C-EUC1206     C1, C2, C3, C4, C5, C6, C7, C8, C9, C10, C11, C12, C13, C14, C15, C16, C17, C18, C19, C20, C21, C22, C23, C24 CK 1206 100nF -      
+8   FAC32SE       FAC32SE       X1, X2, X3, X4, X5, X6, X7, X8                                                                                                     
+1   FH15          FH15          X9                                                                                                                                 
+7   PIN2F061.100  PIN2F061.100  J33, J34, J35, J36, J37, J38, J39                                                                                                  
