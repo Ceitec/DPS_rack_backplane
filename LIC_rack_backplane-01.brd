@@ -8,7 +8,7 @@
 </settings>
 <grid distance="1.27" unitdist="mm" unit="mm" style="dots" multiple="2" display="yes" altdistance="0.3175" altunitdist="mm" altunit="mm"/>
 <layers>
-<layer number="1" name="Top" color="3" fill="1" visible="no" active="yes"/>
+<layer number="1" name="Top" color="3" fill="1" visible="yes" active="yes"/>
 <layer number="2" name="Route2" color="1" fill="3" visible="no" active="yes"/>
 <layer number="3" name="Route3" color="4" fill="3" visible="no" active="yes"/>
 <layer number="4" name="Route4" color="1" fill="4" visible="no" active="yes"/>
@@ -23,18 +23,18 @@
 <layer number="13" name="Route13" color="4" fill="5" visible="no" active="yes"/>
 <layer number="14" name="Route14" color="1" fill="6" visible="no" active="yes"/>
 <layer number="15" name="Route15" color="4" fill="6" visible="no" active="yes"/>
-<layer number="16" name="Bottom" color="4" fill="1" visible="no" active="yes"/>
+<layer number="16" name="Bottom" color="4" fill="1" visible="yes" active="yes"/>
 <layer number="17" name="Pads" color="2" fill="1" visible="yes" active="yes"/>
 <layer number="18" name="Vias" color="2" fill="1" visible="yes" active="yes"/>
 <layer number="19" name="Unrouted" color="6" fill="1" visible="yes" active="yes"/>
 <layer number="20" name="Dimension" color="15" fill="1" visible="yes" active="yes"/>
-<layer number="21" name="tPlace" color="7" fill="1" visible="no" active="yes"/>
+<layer number="21" name="tPlace" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="22" name="bPlace" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="23" name="tOrigins" color="15" fill="1" visible="yes" active="yes"/>
 <layer number="24" name="bOrigins" color="15" fill="1" visible="yes" active="yes"/>
-<layer number="25" name="tNames" color="7" fill="1" visible="no" active="yes"/>
+<layer number="25" name="tNames" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="26" name="bNames" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="27" name="tValues" color="7" fill="1" visible="no" active="yes"/>
+<layer number="27" name="tValues" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="28" name="bValues" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="29" name="tStop" color="7" fill="3" visible="no" active="yes"/>
 <layer number="30" name="bStop" color="7" fill="6" visible="no" active="yes"/>
@@ -103,13 +103,6 @@
 <hole x="109.22" y="3.1" drill="2.7"/>
 <hole x="129.54" y="3.1" drill="2.7"/>
 <hole x="149.86" y="3.1" drill="2.7"/>
-<dimension x1="162.56" y1="128.7" x2="0" y2="128.7" x3="81.28" y3="144.78" textsize="1.778" layer="20"/>
-<dimension x1="162.56" y1="0" x2="162.56" y2="128.7" x3="182.88" y3="64.35" textsize="1.778" layer="20"/>
-<dimension x1="8.81888125" y1="125.65498125" x2="6.12111875" y2="125.54501875" x3="7.619996875" y3="121.92" textsize="1.778" layer="20" dtype="diameter"/>
-<dimension x1="0" y1="128.7" x2="7.47" y2="125.6" x3="3.735" y3="134.62" textsize="1.778" layer="20" dtype="horizontal"/>
-<dimension x1="0" y1="128.7" x2="7.47" y2="125.6" x3="-5.08" y3="127.15" textsize="1.778" layer="20" dtype="vertical"/>
-<dimension x1="162.56" y1="128.7" x2="150.01" y2="125.6" x3="156.285" y3="137.16" textsize="1.778" layer="20" dtype="horizontal"/>
-<dimension x1="162.56" y1="128.7" x2="150.01" y2="125.6" x3="172.72" y3="127.15" textsize="1.778" layer="20" dtype="vertical"/>
 </plain>
 <libraries>
 <library name="con-vg">
